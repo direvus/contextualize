@@ -4,12 +4,12 @@ generate [ConTeXt](http://wiki.contextgarden.net) documents
 
 ## Introduction
 
-ConTeXt is a document typesetting system and markup language, sort of in the
-same vein as LaTeX but rather more pleasant to use, especially if you are
+**ConTeXt** is a document typesetting system and markup language, sort of in
+the same vein as LaTeX but rather more pleasant to use, especially if you are
 familiar with markup languages like HTML.
 
-Contextualize is a simple web interface for generating ConTeXt documents.  You
-type in your ConTeXt source, hit the button, and (if you haven't made any
+**Contextualize** is a simple web interface for generating ConTeXt documents.
+You type in your ConTeXt source, hit the button, and (if you haven't made any
 syntax errors) out comes the PDF.
 
 It is primarily designed with authors of ConTeXt documents in mind, to offer an
